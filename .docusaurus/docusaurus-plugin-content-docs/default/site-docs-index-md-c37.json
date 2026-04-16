@@ -1,0 +1,24 @@
+{
+  "id": "index",
+  "title": "Обзор проекта",
+  "description": "Dragons Mod — мод для Minecraft 1.21.11 на платформе Fabric, добавляющий четыре вида диких драконов, систему приручения, яйца дракона, четыре полных набора брони и рог дракона.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "Обзор проекта",
+    "sidebar_label": "Обзор проекта",
+    "slug": "/"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Архитектура",
+    "permalink": "/docs/architecture"
+  }
+}

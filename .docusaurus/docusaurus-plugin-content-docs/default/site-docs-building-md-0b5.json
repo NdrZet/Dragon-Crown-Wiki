@@ -1,0 +1,27 @@
+{
+  "id": "building",
+  "title": "Сборка мода",
+  "description": "Требования",
+  "source": "@site/docs/building.md",
+  "sourceDirName": ".",
+  "slug": "/building",
+  "permalink": "/docs/building",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "building",
+    "title": "Сборка мода",
+    "sidebar_label": "Сборка"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "API 1.21.11",
+    "permalink": "/docs/api-changes"
+  },
+  "next": {
+    "title": "Расширение",
+    "permalink": "/docs/extending"
+  }
+}

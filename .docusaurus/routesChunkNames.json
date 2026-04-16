@@ -1,0 +1,141 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-abd": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-d41": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-ccf": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/-af3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-c-37-4d0"
+  },
+  "/docs/ai/goals-4d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-goals-3-d-1-bde"
+  },
+  "/docs/api-changes-965": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-changescfc-1c6"
+  },
+  "/docs/architecture-52f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-528-86f"
+  },
+  "/docs/building-fb1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-building-0-b-5-450"
+  },
+  "/docs/data/biome-spawning-678": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-biome-spawninge-94-8d5"
+  },
+  "/docs/data/localization-8fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-localizationc-45-6f5"
+  },
+  "/docs/data/loot-tables-9a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-loot-tables-469-3b4"
+  },
+  "/docs/data/recipes-cb3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-recipes-810-284"
+  },
+  "/docs/entities/base-dragon-3fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entities-base-dragon-863-a8b"
+  },
+  "/docs/entities/egg-entity-452": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entities-egg-entity-529-7c6"
+  },
+  "/docs/entities/mod-entities-197": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entities-mod-entities-748-eae"
+  },
+  "/docs/entities/tamable-dragon-c75": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entities-tamable-dragonab-5-038"
+  },
+  "/docs/entities/wild-dragons-7f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entities-wild-dragons-5-a-1-107"
+  },
+  "/docs/extending-c56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-extending-27-f-989"
+  },
+  "/docs/items/armor-material-5e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-items-armor-material-8-e-3-2b2"
+  },
+  "/docs/items/egg-item-73b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-items-egg-itemaa-3-6d9"
+  },
+  "/docs/items/horn-item-46e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-items-horn-item-5-ff-076"
+  },
+  "/docs/items/mod-items-ba4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-items-mod-itemsd-2-a-e15"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---a-74-9d6"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

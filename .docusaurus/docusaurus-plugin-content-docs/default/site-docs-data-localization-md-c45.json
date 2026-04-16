@@ -1,0 +1,27 @@
+{
+  "id": "data/localization",
+  "title": "Локализация",
+  "description": "Путь: src/main/resources/assets/dragons-mod/lang/",
+  "source": "@site/docs/data/localization.md",
+  "sourceDirName": "data",
+  "slug": "/data/localization",
+  "permalink": "/docs/data/localization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "localization",
+    "title": "Локализация",
+    "sidebar_label": "Локализация"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Спавн в биомах",
+    "permalink": "/docs/data/biome-spawning"
+  },
+  "next": {
+    "title": "API 1.21.11",
+    "permalink": "/docs/api-changes"
+  }
+}

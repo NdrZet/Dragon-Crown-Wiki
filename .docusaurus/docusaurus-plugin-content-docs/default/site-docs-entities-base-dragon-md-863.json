@@ -1,0 +1,27 @@
+{
+  "id": "entities/base-dragon",
+  "title": "BaseDragon",
+  "description": "Файл: \\",
+  "source": "@site/docs/entities/base-dragon.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/base-dragon",
+  "permalink": "/docs/entities/base-dragon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "base-dragon",
+    "title": "BaseDragon",
+    "sidebar_label": "BaseDragon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Архитектура",
+    "permalink": "/docs/architecture"
+  },
+  "next": {
+    "title": "Дикие драконы",
+    "permalink": "/docs/entities/wild-dragons"
+  }
+}

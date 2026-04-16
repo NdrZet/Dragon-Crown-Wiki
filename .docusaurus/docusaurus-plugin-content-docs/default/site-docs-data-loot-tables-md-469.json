@@ -1,0 +1,27 @@
+{
+  "id": "data/loot-tables",
+  "title": "Лут-таблицы",
+  "description": "Путь: src/main/resources/data/dragons-mod/loot_table/entities/",
+  "source": "@site/docs/data/loot-tables.md",
+  "sourceDirName": "data",
+  "slug": "/data/loot-tables",
+  "permalink": "/docs/data/loot-tables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "loot-tables",
+    "title": "Лут-таблицы",
+    "sidebar_label": "Лут-таблицы"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Рецепты",
+    "permalink": "/docs/data/recipes"
+  },
+  "next": {
+    "title": "Спавн в биомах",
+    "permalink": "/docs/data/biome-spawning"
+  }
+}

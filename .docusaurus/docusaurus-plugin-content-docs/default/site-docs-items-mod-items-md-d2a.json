@@ -1,0 +1,27 @@
+{
+  "id": "items/mod-items",
+  "title": "ModItems",
+  "description": "Файл: src/main/java/com/spa/dragons/item/ModItems.java",
+  "source": "@site/docs/items/mod-items.md",
+  "sourceDirName": "items",
+  "slug": "/items/mod-items",
+  "permalink": "/docs/items/mod-items",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mod-items",
+    "title": "ModItems",
+    "sidebar_label": "ModItems"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "AI Goals",
+    "permalink": "/docs/ai/goals"
+  },
+  "next": {
+    "title": "DragonArmorMaterial",
+    "permalink": "/docs/items/armor-material"
+  }
+}

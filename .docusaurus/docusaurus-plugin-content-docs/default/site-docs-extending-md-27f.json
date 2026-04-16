@@ -1,0 +1,23 @@
+{
+  "id": "extending",
+  "title": "Расширение мода",
+  "description": "Руководство по добавлению новых типов драконов.",
+  "source": "@site/docs/extending.md",
+  "sourceDirName": ".",
+  "slug": "/extending",
+  "permalink": "/docs/extending",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "extending",
+    "title": "Расширение мода",
+    "sidebar_label": "Расширение"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Сборка",
+    "permalink": "/docs/building"
+  }
+}

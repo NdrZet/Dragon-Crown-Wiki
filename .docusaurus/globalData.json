@@ -1,0 +1,123 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "ai/goals",
+              "path": "/docs/ai/goals",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-changes",
+              "path": "/docs/api-changes",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture",
+              "path": "/docs/architecture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "building",
+              "path": "/docs/building",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/biome-spawning",
+              "path": "/docs/data/biome-spawning",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/localization",
+              "path": "/docs/data/localization",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/loot-tables",
+              "path": "/docs/data/loot-tables",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/recipes",
+              "path": "/docs/data/recipes",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "entities/base-dragon",
+              "path": "/docs/entities/base-dragon",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "entities/egg-entity",
+              "path": "/docs/entities/egg-entity",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "entities/mod-entities",
+              "path": "/docs/entities/mod-entities",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "entities/tamable-dragon",
+              "path": "/docs/entities/tamable-dragon",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "entities/wild-dragons",
+              "path": "/docs/entities/wild-dragons",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extending",
+              "path": "/docs/extending",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "items/armor-material",
+              "path": "/docs/items/armor-material",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "items/egg-item",
+              "path": "/docs/items/egg-item",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "items/horn-item",
+              "path": "/docs/items/horn-item",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "items/mod-items",
+              "path": "/docs/items/mod-items",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "📋 Обзор проекта"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

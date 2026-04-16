@@ -1,0 +1,27 @@
+{
+  "id": "entities/wild-dragons",
+  "title": "Дикие драконы",
+  "description": "Четыре вида: Fire, Ice, Shadow, Storm.",
+  "source": "@site/docs/entities/wild-dragons.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/wild-dragons",
+  "permalink": "/docs/entities/wild-dragons",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wild-dragons",
+    "title": "Дикие драконы",
+    "sidebar_label": "Дикие драконы"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "BaseDragon",
+    "permalink": "/docs/entities/base-dragon"
+  },
+  "next": {
+    "title": "TamableDragon",
+    "permalink": "/docs/entities/tamable-dragon"
+  }
+}

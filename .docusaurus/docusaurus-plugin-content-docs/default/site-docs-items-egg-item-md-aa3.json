@@ -1,0 +1,27 @@
+{
+  "id": "items/egg-item",
+  "title": "DragonEggItem",
+  "description": "Файл: src/main/java/com/spa/dragons/item/DragonEggItem.java",
+  "source": "@site/docs/items/egg-item.md",
+  "sourceDirName": "items",
+  "slug": "/items/egg-item",
+  "permalink": "/docs/items/egg-item",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "egg-item",
+    "title": "DragonEggItem",
+    "sidebar_label": "DragonEggItem"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "DragonArmorMaterial",
+    "permalink": "/docs/items/armor-material"
+  },
+  "next": {
+    "title": "DragonHornItem",
+    "permalink": "/docs/items/horn-item"
+  }
+}

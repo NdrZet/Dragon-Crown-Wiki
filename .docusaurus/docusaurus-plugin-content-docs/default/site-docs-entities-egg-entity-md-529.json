@@ -1,0 +1,27 @@
+{
+  "id": "entities/egg-entity",
+  "title": "DragonEggEntity",
+  "description": "Файл: src/main/java/com/spa/dragons/entity/DragonEggEntity.java",
+  "source": "@site/docs/entities/egg-entity.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/egg-entity",
+  "permalink": "/docs/entities/egg-entity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "egg-entity",
+    "title": "DragonEggEntity",
+    "sidebar_label": "DragonEggEntity"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "TamableDragon",
+    "permalink": "/docs/entities/tamable-dragon"
+  },
+  "next": {
+    "title": "ModEntities",
+    "permalink": "/docs/entities/mod-entities"
+  }
+}

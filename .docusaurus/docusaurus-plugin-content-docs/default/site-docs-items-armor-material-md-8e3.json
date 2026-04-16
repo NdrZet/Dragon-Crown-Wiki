@@ -1,0 +1,27 @@
+{
+  "id": "items/armor-material",
+  "title": "DragonArmorMaterial",
+  "description": "Файл: src/main/java/com/spa/dragons/item/DragonArmorMaterial.java",
+  "source": "@site/docs/items/armor-material.md",
+  "sourceDirName": "items",
+  "slug": "/items/armor-material",
+  "permalink": "/docs/items/armor-material",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "armor-material",
+    "title": "DragonArmorMaterial",
+    "sidebar_label": "DragonArmorMaterial"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "ModItems",
+    "permalink": "/docs/items/mod-items"
+  },
+  "next": {
+    "title": "DragonEggItem",
+    "permalink": "/docs/items/egg-item"
+  }
+}

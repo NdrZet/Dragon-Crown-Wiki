@@ -1,0 +1,27 @@
+{
+  "id": "ai/goals",
+  "title": "AI Goals",
+  "description": "Пакет: com.spa.dragons.entity.ai",
+  "source": "@site/docs/ai/goals.md",
+  "sourceDirName": "ai",
+  "slug": "/ai/goals",
+  "permalink": "/docs/ai/goals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "goals",
+    "title": "AI Goals",
+    "sidebar_label": "AI Goals"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "ModEntities",
+    "permalink": "/docs/entities/mod-entities"
+  },
+  "next": {
+    "title": "ModItems",
+    "permalink": "/docs/items/mod-items"
+  }
+}

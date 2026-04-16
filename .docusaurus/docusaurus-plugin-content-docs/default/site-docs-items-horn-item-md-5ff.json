@@ -1,0 +1,27 @@
+{
+  "id": "items/horn-item",
+  "title": "DragonHornItem",
+  "description": "Файл: src/main/java/com/spa/dragons/item/DragonHornItem.java",
+  "source": "@site/docs/items/horn-item.md",
+  "sourceDirName": "items",
+  "slug": "/items/horn-item",
+  "permalink": "/docs/items/horn-item",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "horn-item",
+    "title": "DragonHornItem",
+    "sidebar_label": "DragonHornItem"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "DragonEggItem",
+    "permalink": "/docs/items/egg-item"
+  },
+  "next": {
+    "title": "Рецепты",
+    "permalink": "/docs/data/recipes"
+  }
+}

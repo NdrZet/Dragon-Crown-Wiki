@@ -1,0 +1,27 @@
+{
+  "id": "entities/tamable-dragon",
+  "title": "TamableDragon",
+  "description": "Файл: src/main/java/com/spa/dragons/entity/TamableDragon.java",
+  "source": "@site/docs/entities/tamable-dragon.md",
+  "sourceDirName": "entities",
+  "slug": "/entities/tamable-dragon",
+  "permalink": "/docs/entities/tamable-dragon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tamable-dragon",
+    "title": "TamableDragon",
+    "sidebar_label": "TamableDragon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Дикие драконы",
+    "permalink": "/docs/entities/wild-dragons"
+  },
+  "next": {
+    "title": "DragonEggEntity",
+    "permalink": "/docs/entities/egg-entity"
+  }
+}

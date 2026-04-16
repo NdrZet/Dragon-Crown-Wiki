@@ -1,0 +1,27 @@
+{
+  "id": "data/biome-spawning",
+  "title": "Спавн в биомах",
+  "description": "Путь: src/main/resources/data/dragons-mod/fabric/biome/modification/",
+  "source": "@site/docs/data/biome-spawning.md",
+  "sourceDirName": "data",
+  "slug": "/data/biome-spawning",
+  "permalink": "/docs/data/biome-spawning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "biome-spawning",
+    "title": "Спавн в биомах",
+    "sidebar_label": "Спавн в биомах"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Лут-таблицы",
+    "permalink": "/docs/data/loot-tables"
+  },
+  "next": {
+    "title": "Локализация",
+    "permalink": "/docs/data/localization"
+  }
+}

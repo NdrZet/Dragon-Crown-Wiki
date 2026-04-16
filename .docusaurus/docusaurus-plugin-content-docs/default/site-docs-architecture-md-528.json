@@ -1,0 +1,27 @@
+{
+  "id": "architecture",
+  "title": "Архитектура мода",
+  "description": "Иерархия классов сущностей",
+  "source": "@site/docs/architecture.md",
+  "sourceDirName": ".",
+  "slug": "/architecture",
+  "permalink": "/docs/architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "architecture",
+    "title": "Архитектура мода",
+    "sidebar_label": "Архитектура"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Обзор проекта",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "BaseDragon",
+    "permalink": "/docs/entities/base-dragon"
+  }
+}

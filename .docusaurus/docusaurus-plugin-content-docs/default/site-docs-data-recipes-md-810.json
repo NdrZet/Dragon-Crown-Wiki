@@ -1,0 +1,27 @@
+{
+  "id": "data/recipes",
+  "title": "Рецепты крафта",
+  "description": "Путь: src/main/resources/data/dragons-mod/recipe/",
+  "source": "@site/docs/data/recipes.md",
+  "sourceDirName": "data",
+  "slug": "/data/recipes",
+  "permalink": "/docs/data/recipes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "recipes",
+    "title": "Рецепты крафта",
+    "sidebar_label": "Рецепты"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "DragonHornItem",
+    "permalink": "/docs/items/horn-item"
+  },
+  "next": {
+    "title": "Лут-таблицы",
+    "permalink": "/docs/data/loot-tables"
+  }
+}
