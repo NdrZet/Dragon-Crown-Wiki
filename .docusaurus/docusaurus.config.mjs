@@ -26,12 +26,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\SPA_Full\\docs-site\\sidebars.js",
+          "sidebarPath": "D:\\SPA_Full\\Dragons_mod_wiki\\sidebars.js",
           "routeBasePath": "docs"
         },
         "blog": false,
         "theme": {
-          "customCss": "D:\\SPA_Full\\docs-site\\src\\css\\custom.css"
+          "customCss": "D:\\SPA_Full\\Dragons_mod_wiki\\src\\css\\custom.css"
         }
       }
     ]

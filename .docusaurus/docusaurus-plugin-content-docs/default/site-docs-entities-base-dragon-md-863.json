@@ -1,7 +1,7 @@
 {
   "id": "entities/base-dragon",
   "title": "BaseDragon",
-  "description": "Файл: \\",
+  "description": "Файл: src/main/java/com/spa/dragons/entity/BaseDragon.java",
   "source": "@site/docs/entities/base-dragon.md",
   "sourceDirName": "entities",
   "slug": "/entities/base-dragon",
